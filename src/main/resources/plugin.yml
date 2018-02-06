@@ -1,0 +1,7 @@
+name: BanEnchants
+main: me.skymc.banenchants.BanEnchants
+version: {$VERSION}
+
+commands:
+  banenchants:
+    permission: banenchants.admin
